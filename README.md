@@ -1,6 +1,6 @@
 # Book-api
 
-Book api written in golang
+Book api written in go(lang)
 
 Dependencies used: 
 
