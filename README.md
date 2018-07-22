@@ -2,4 +2,4 @@
 
 Book api written in golang
 
-Dependencies used: *Gorilla-mux
+Dependencies used: * Gorilla-mux
